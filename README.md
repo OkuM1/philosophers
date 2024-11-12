@@ -92,9 +92,3 @@ The **Philosophers** project involved overcoming several complex synchronization
 ## License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-
-Thank you for reviewing **Philosophers**! This project was a valuable experience in mastering thread synchronization and concurrent programming techniques. Feedback and contributions are welcome—please fork the repository and submit pull requests for improvements.
-
----

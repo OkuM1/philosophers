@@ -50,7 +50,7 @@ The **Philosophers** project simulates the well-known "Dining Philosophers" prob
 To compile the project, clone the repository and use `make`:
 
 ```bash
-git clone https://github.com/yourusername/philosophers.git
+git clone https://github.com/OkuM1/philosophers.git
 cd philosophers
 make
 ```
